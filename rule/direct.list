@@ -2,6 +2,7 @@
 USER-AGENT,MicroMessenger Client
 USER-AGENT,WeChat*
 USER-AGENT,MApi* // Dianping
+USER-AGENT,Ali* // Ali
 # Ali
 DOMAIN-KEYWORD,alibaba
 DOMAIN-KEYWORD,alipay
