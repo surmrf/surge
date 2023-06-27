@@ -18,3 +18,6 @@ DOMAIN-KEYWORD,antgroup
 # China
 DOMAIN-SUFFIX,CN
 DOMAIN-KEYWORD,baidu
+# Apple
+DOMAIN-SUFFIX,ls.apple.com // Apple Maps
+DOMAIN-SUFFIX,store.apple.com // Apple Store Online
