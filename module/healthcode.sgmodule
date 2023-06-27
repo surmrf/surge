@@ -1,6 +1,0 @@
-[Script]
-# 首页Tab
-http-response https://healthcode.dingtalk.com/unAuthLwp/queryHealthInfoByAuthCode requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/surmrf/surge/master/script/healthcode.js?token=GHSAT0AAAAAABOE6JGLPWL6RFUMNVKCTZMQY4JMLWQ,tag=健康码
-
-[MITM]
-hostname = healthcode.dingtalk.com
