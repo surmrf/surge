@@ -2,10 +2,10 @@
 USER-AGENT,MicroMessenger Client
 USER-AGENT,WeChat*
 USER-AGENT,MApi* // Dianping
-USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D* // Taobao
-USER-AGENT,%E6%94%AF%E4%BB%98%E5%AE%9D* // Alipay
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90* // QQMusic
-USER-AGENT,%E9%98%BF%E9%87%8C%E9%92%89* // AliDingTalk
+USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D* // Mobile Taobao
+USER-AGENT,%E6%94%AF%E4%BB%98%E5%AE%9D* // Mobile Alipay
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90* // Mobile QQMusic
+USER-AGENT,%E9%98%BF%E9%87%8C%E9%92%89* // Mobile AliDingTalk
 # Ali
 DOMAIN-KEYWORD,alibaba
 DOMAIN-KEYWORD,alipay
@@ -24,3 +24,5 @@ DOMAIN-KEYWORD,baidu
 # Apple
 DOMAIN-SUFFIX,ls.apple.com // Apple Maps
 DOMAIN-SUFFIX,store.apple.com // Apple Store Online
+# Tencent
+DOMAIN-SUFFIX,tencentmusic.com
