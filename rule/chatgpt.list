@@ -1,4 +1,5 @@
-# ChatGPT
+# Chat
+DOMAIN,ai.cn,
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sentry.io
@@ -7,3 +8,15 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com,
+DOMAIN-SUFFIX,client-api.arkoselabs.com,
+DOMAIN-SUFFIX,events.statsigapi.net,
+DOMAIN-SUFFIX,oaiusercontent.com,
+DOMAIN-SUFFIX,oaistatic.com,
+DOMAIN-SUFFIX,identrust.com,
+DOMAIN-SUFFIX,launchdarkly.com,
+DOMAIN-SUFFIX,segment.io,
+DOMAIN-SUFFIX,intercom.io,
+DOMAIN-SUFFIX,googleapis.com,
+DOMAIN-SUFFIX,poe.com,
+DOMAIN-KEYWORD,openai,
